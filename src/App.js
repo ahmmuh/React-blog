@@ -27,6 +27,7 @@ class App extends Component {
   render() {
     const { posts } = this.state;
     return (
+    
       <div className="container">
         <Header />
         <div className="postContainer">
